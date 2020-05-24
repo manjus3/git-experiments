@@ -10,3 +10,5 @@ Issue100: Investigate File stressor. See what's going on.
 Issues56: New feature
 
 Issues57: New feature
+
+Issues58: New feature
