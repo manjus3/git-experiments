@@ -6,3 +6,5 @@ Added fixes for hf100
 Added new in master
 
 Issue100: Investigate File stressor. See what's going on.
+
+Issues56: New feature
